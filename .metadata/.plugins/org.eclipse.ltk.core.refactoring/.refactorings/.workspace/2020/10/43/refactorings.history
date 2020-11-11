@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;spring-boot-trial-ubuntu&apos;" deleteContents="true" description="Delete resource &apos;spring-boot-trial-ubuntu&apos;" element1="/spring-boot-trial-ubuntu" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1603555314334"/>
+</session>

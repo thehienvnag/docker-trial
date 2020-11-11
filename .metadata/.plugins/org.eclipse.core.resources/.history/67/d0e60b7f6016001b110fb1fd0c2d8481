@@ -1,0 +1,15 @@
+package com.springbootdemo.demoapp.controller;
+
+import org.springframework.http.ResponseEntity;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class WelcomeController {
+	
+	@GetMapping("welcomes")
+	public ResponseEntity getWelcomeWorlds() {
+		String[] welcomes = {"Docker", "Kubernettes", "Lazy loading"};
+		return ResponseEntity.ok(welcomes);
+	}
+}

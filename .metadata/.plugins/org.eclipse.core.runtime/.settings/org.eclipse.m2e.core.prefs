@@ -1,0 +1,7 @@
+eclipse.m2.WorkspacelifecycleMappingsLocation=/home/thehien/Desktop/TrialTechnology/.metadata/.plugins/org.eclipse.m2e.core/lifecycle-mapping-metadata.xml
+eclipse.m2.defaultRuntime=maven-3.6.3
+eclipse.m2.runtimes=maven-3.6.3
+eclipse.m2.runtimesNodes/maven-3.6.3/location=/usr/share/maven
+eclipse.m2.runtimesNodes/maven-3.6.3/type=EXTERNAL
+eclipse.m2.userSettingsFile=/usr/share/maven/conf/settings.xml
+eclipse.preferences.version=1

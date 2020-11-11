@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Trial Docker</title>
+  </head>
+  <body>
+    <h3>Hello newcommer</h3>
+    <ul id="itemsList"></ul>
+    <script type="text/javascript">
+      const url = "http://localhost:5001";
+      // const url = 'http://demo-app';
+
+      fetch(url)
+        .then((res) => res.json())
+        .then((data) => {
+          const liTags = data.reduce((acc, cur) => acc + `<li>${cur}</li>`, "");
+          document.getElementById("itemsList").innerHTML = liTags;
+        })
+        .catch((err) => console.log(err));
+    </script>
+  </body>
+</html>

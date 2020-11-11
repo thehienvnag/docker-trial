@@ -1,0 +1,13 @@
+/home/thehien/Desktop/TrialTechnology/csharp-test/bin/Debug/netcoreapp3.1/csharp-test
+/home/thehien/Desktop/TrialTechnology/csharp-test/bin/Debug/netcoreapp3.1/csharp-test.deps.json
+/home/thehien/Desktop/TrialTechnology/csharp-test/bin/Debug/netcoreapp3.1/csharp-test.runtimeconfig.json
+/home/thehien/Desktop/TrialTechnology/csharp-test/bin/Debug/netcoreapp3.1/csharp-test.runtimeconfig.dev.json
+/home/thehien/Desktop/TrialTechnology/csharp-test/bin/Debug/netcoreapp3.1/csharp-test.dll
+/home/thehien/Desktop/TrialTechnology/csharp-test/bin/Debug/netcoreapp3.1/csharp-test.pdb
+/home/thehien/Desktop/TrialTechnology/csharp-test/obj/Debug/netcoreapp3.1/csharp-test.csprojAssemblyReference.cache
+/home/thehien/Desktop/TrialTechnology/csharp-test/obj/Debug/netcoreapp3.1/csharp-test.AssemblyInfoInputs.cache
+/home/thehien/Desktop/TrialTechnology/csharp-test/obj/Debug/netcoreapp3.1/csharp-test.AssemblyInfo.cs
+/home/thehien/Desktop/TrialTechnology/csharp-test/obj/Debug/netcoreapp3.1/csharp-test.csproj.CoreCompileInputs.cache
+/home/thehien/Desktop/TrialTechnology/csharp-test/obj/Debug/netcoreapp3.1/csharp-test.dll
+/home/thehien/Desktop/TrialTechnology/csharp-test/obj/Debug/netcoreapp3.1/csharp-test.pdb
+/home/thehien/Desktop/TrialTechnology/csharp-test/obj/Debug/netcoreapp3.1/csharp-test.genruntimeconfig.cache
